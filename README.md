@@ -1,4 +1,8 @@
-jsonutilpy
+json-mergepy
 ==========
 
-Python JSON Utility.
+Python JSON Merge Utility.
+
+    python merge_test.py
+
+    python diff_test.py
